@@ -1,0 +1,7 @@
+{
+    "port": 5000,
+    "jwtSecret": "vladilen youtube mern",
+    "mongoUri": "mongodb://localhost:27017/?readPreference=primary&ssl=false",
+    "baseUrl": "http://localhost:5000",
+    "live": "10h"
+}
